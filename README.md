@@ -15,6 +15,7 @@
 * [Дипломный проект профессии "Тестировщик ПО"](https://github.com/Ksuschka/QADiploma)
 * Selenide. [Домашняя работа по курсу "Selenide"](https://github.com/Ksuschka/CardDeliveryOrder)
 * SQL. [Итоговая работа по курсу "SQL"](https://github.com/Ksuschka/DeadlineSQL)
+* [Пример работы по теме: Page Objec](https://github.com/Ksuschka/PageObjects)
 
 
 #### Сертификаты Нетологии
